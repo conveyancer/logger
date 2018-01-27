@@ -23,7 +23,7 @@
     {
         "psr-4":
         {
-            "conveyancer\\logger\\": "src",
+            "conveyancer\\logger\\": "src"
         }
     }
 }
